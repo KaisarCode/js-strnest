@@ -1,6 +1,6 @@
 {
   "name": "kc-strnest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[js] Nest strings into callbacks.",
   "main": "index.js",
   "repository": {
